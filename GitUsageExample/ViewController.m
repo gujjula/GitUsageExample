@@ -23,7 +23,5 @@
 	[super didReceiveMemoryWarning];
 	// Dispose of any resources that can be recreated.
 }
--(void) fake {
-	NSLog(@"Hello");
-}
+
 @end
